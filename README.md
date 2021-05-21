@@ -1,6 +1,6 @@
 ## Introdução ao Javascript 👨‍💻
 
-Projeto de introdução a liguagem Javascript, abordando alguns conceitos básicos sobre a linguagem e manipulação de elementos de uma página web utilizando a interface DOM.
+Projeto de introdução ao Javascript onde são abordados alguns conceitos básicos sobre a linguagem e manipulação de elementos de uma página web utilizando a interface DOM.
 
 ## Objetivos do projeto :rocket:
 
